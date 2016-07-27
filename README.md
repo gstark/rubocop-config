@@ -2,4 +2,4 @@
 
 To Install:
 
-`wget https://raw.githubusercontent.com/tiy-tpa/rubocop-config/master/.rubocop.yml -O ~/.rubycop.yml`
+`wget https://raw.githubusercontent.com/tiy-tpa/rubocop-config/master/.rubocop.yml -O ~/.rubocop.yml`
